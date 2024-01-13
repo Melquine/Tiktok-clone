@@ -1,0 +1,19 @@
+.footer {
+    position: fixed;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    bottom: 0px;
+}
+
+.footer a {
+    height: 35px;
+    width: 35px;
+}
+
+.svg {
+    height: 35px;
+    width: 35px;
+}
